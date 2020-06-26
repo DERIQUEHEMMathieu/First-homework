@@ -1,8 +1,8 @@
-#Lexique du vocabulaire du web
+# Lexique du vocabulaire du web
 
 Dans le cadre de ma formation de développeur web et web mobile, ceci est mon lexique de mots-clés.
 
-##Lexique 
+## Lexique 
 
 Liste : 
 
@@ -11,4 +11,3 @@ Il permet de paralléliser plusieurs versions du même projet lorqu'un développ
 
 - **GitHub** : GitHub est un site web qui permet d'héberger des projets Git sous forme de repository à l'aide de commit. On peut y suivre des personnes, des projets. 
 Il permet également de réaliser un pull requests et peut afficher les projets, les différents commits.
-
