@@ -32,3 +32,11 @@ Son principal intérêt réside dans son mode de fonctionnement : le langage Jav
 En cela, il joue un rôle dans l'amélioration de la rapidité de chargement des pages, un critère d'ergonomie et de référencement de plus en plus important. 
 Il existe de nombreux frameworks JavaScript orientés vers les interfaces web (ou "orientés client"). Les trois plus connus sont Jquery, AngularJS (qui a été initialement développé par Google) et React (qui, lui, est né chez Facebook)
 Infrastructure JavaScript open source orientée serveur : NodeJS.
+
+- **PHP** : Hypertext Preprocessor, désigne un langage informatique, ou un langage de script, utilisé principalement pour la conception de sites web dynamiques. 
+Il s'agit d'un langage de programmation. Le langage PHP est souvent associé au serveur de base de données MySQL et au serveur Apache.
+Sur un plan technique, le PHP s'utilise la plupart du temps côté serveur. 
+Il génère du code HTML, CSS ou encore XHTML, des données (en PNG, JPG, etc.) ou encore des fichiers PDF.
+
+-**Intégration** : Désigne une pratique employée par les développeurs et qui consiste à fusionner des versions de codes qui fonctionnent sur un référentiel central partagé plusieurs fois par jour. 
+L'objectif de l'intégration continue est d'automatiser la création de versions et la vérification afin de détecter rapidement les éventuelles erreurs et d'accélérer le développement.
